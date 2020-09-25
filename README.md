@@ -1,7 +1,5 @@
 # Useful tools for geneticists
 
-This document is sorted by year and category.
-
 
 |               Name              | Category |       Description      | Citation
 |:-------------------------------:|:--------:|----------------------|:---------:|
