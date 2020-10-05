@@ -1,3 +1,6 @@
+
+
+
 # Useful tools for geneticists
 
 This document is sorted by year and category.
@@ -10,3 +13,4 @@ This document is sorted by year and category.
 |[GCTA](https://cnsgenomics.com/software/gcta/)|Post-GWAS analysis|<ul><li>Estimate the proportion of phenotypic variance explained by all genome-wide SNPs for complex traits</li><li>Estimate the genetic relationships among individuals in GWAS data</li><li>Principal component analysis</li><li>Conditional & joint analysis of GWAS summary statistics without individual-level genotype data</li></ul>|[https://doi.org/10.1016/j.ajhg.2010.11.011](https://doi.org/10.1016/j.ajhg.2010.11.011)|
 |[LD Score Regression](https://github.com/bulik/ldsc)|Post-GWAS analysis|<ul><li>Distinguish polygeneity and population strtification</li><li>Estimate heritability and genetic correlation from GWAS summary statistics</li></ul>|[https://doi.org/10.1038/ng.3211](https://doi.org/10.1038/ng.3211)|
 |[SKAT](https://cran.r-project.org/web/packages/SKAT/index.html)|Rare variant testing|<ul><li>Perform rare variants testing in the form of optimized burden or kernel tests</li><li>File format: plink bfiles</li></ul>|[https://doi.org/10.1016/j.ajhg.2012.06.007](https://doi.org/10.1016/j.ajhg.2012.06.007)|
+|[MetaSKAT](https://cran.r-project.org/web/packages/MetaSKAT/index.html)|Rare variant testing|<ul><li>Perform meta-analysis of SKAT statistics</li><li>File format: plink bfiles</li></ul>|[https://doi.org/10.1016/j.ajhg.2013.05.010](https://doi.org/10.1016/j.ajhg.2013.05.010)|
